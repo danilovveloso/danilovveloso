@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/danivic/">
+  <img align="left" alt="Danilo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 <!--
 **danilovveloso/danilovveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
