@@ -8,9 +8,9 @@
 
 <br />
 
-Hello fellow visitor, I'm Danilo Veloso, a 90's brazilian guy passionate about technology and software development. I've built my career mainly focused on Ruby on Rails, but I'm constantly studying new languages and trying to find new approaches to everything.
+Hello fellow visitor, I'm Danilo Veloso, a 90's Brazilian guy passionate about technology and software development. I've built my career mainly focused on Ruby on Rails, but I'm constantly studying new languages and trying to find new approaches to everything.
 
-Currently I'm studying Rails 7 and NodeJS
+Currently, I'm studying Rails 7 and NodeJS.
 
 
 📈 my github stats
