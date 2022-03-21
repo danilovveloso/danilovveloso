@@ -4,7 +4,10 @@
   <img align="left" alt="Danilo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=danilovveloso.danilovveloso)
+![](https://visitor-badge.glitch.me/badge?page_id=danilovveloso.danilovveloso)
+
+<br />
+
 
 <!--
 **danilovveloso/danilovveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
