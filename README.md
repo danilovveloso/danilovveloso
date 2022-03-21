@@ -3,6 +3,8 @@
 <a href="https://www.instagram.com/danivic/">
   <img align="left" alt="Danilo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=danilovveloso.danilovveloso)
 <!--
 **danilovveloso/danilovveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
