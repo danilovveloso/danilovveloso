@@ -8,6 +8,14 @@
 
 <br />
 
+Hello fellow visitor, I'm Danilo Veloso, a 90's brazilian guy passionate about technology and software development. I've built my career mainly focused on Ruby on Rails, but I'm constantly studying new languages and trying to find new approaches to everything.
+
+Currently I'm studying Rails 7 and NodeJS
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danilovveloso&show_icons=true&theme=gotham" alt="danilovveloso" />
 
 <!--
 **danilovveloso/danilovveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
